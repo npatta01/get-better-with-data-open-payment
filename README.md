@@ -24,9 +24,9 @@ We looked at
 # Deliverables
 In the deliverables folder, you can find our presentation and research notes.
 
-[presentation](deliverables/presentation.pdf)
-[notes](deliverables/research_notes.pdf)
-[payment map](http://bit.ly/1HoUujd)
+[presentation](deliverables/presentation.pdf)      
+[notes](deliverables/research_notes.pdf)      
+[payment map](http://bit.ly/1HoUujd)      
 
 # Team 
 [Antonija Burcul](https://www.linkedin.com/in/antonijaburcul)     
