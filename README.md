@@ -29,10 +29,10 @@ In the deliverables folder, you can find our presentation and research notes.
 [payment map](http://bit.ly/1HoUujd)
 
 # Team 
-[Antonija Burcul](https://www.linkedin.com/in/antonijaburcul)
-[Anna Coenen](http://gureckislab.org/blog/?author=16)
-[Nidhin Pattaniyil](https://www.linkedin.com/in/nidhinpattaniyil)
-[Solmaz Shariat Torbaghan](https://www.linkedin.com/in/sshariat)
+[Antonija Burcul](https://www.linkedin.com/in/antonijaburcul)     
+[Anna Coenen](http://gureckislab.org/blog/?author=16)     
+[Nidhin Pattaniyil](https://www.linkedin.com/in/nidhinpattaniyil)     
+[Solmaz Shariat Torbaghan](https://www.linkedin.com/in/sshariat)     
 
 
 
